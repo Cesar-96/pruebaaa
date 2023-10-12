@@ -1,0 +1,7 @@
+mysql(mariadb) : base de datos mas grande del mundo 
+maria db es gratis por michael
+mysql -> oracle -> cobra cuando generas dinero ,
+xampp tiene por defecto a mariadb
+POSTGRESSQL
+SQLLite
+firebirdsql
